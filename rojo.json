@@ -1,0 +1,14 @@
+{
+	"name": "game-jam",
+	"servePort": 8000,
+	"partitions": {
+		"include": {
+			"path": "include",
+			"target": "ReplicatedStorage.RobloxTS.Include"
+		},
+		"modules": {
+			"path": "modules",
+			"target": "ReplicatedStorage.RobloxTS.Modules"
+		}
+	}
+}

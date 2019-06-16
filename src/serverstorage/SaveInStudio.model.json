@@ -1,0 +1,10 @@
+{
+  "Name": "SaveInStudio",
+  "ClassName": "BoolValue",
+  "Properties": {
+    "Value": {
+      "Type": "Bool",
+      "Value": false
+    }
+  }
+}

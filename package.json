@@ -1,0 +1,23 @@
+{
+  "name": "game-jam",
+  "version": "1.0.0",
+  "description": "Game made for ScriptersCF's 2D game jam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@rbxts/datastore2": "^1.0.1",
+    "@rbxts/roact": "^1.0.4",
+    "@rbxts/services": "^1.0.23",
+    "@rbxts/signal": "^1.0.0",
+    "@rbxts/types": "^1.0.214",
+    "rbx-enum": "^1.0.0",
+    "rbx-net": "^0.6.1",
+    "rbx-resources": "0.0.16",
+    "rbx-types": "^1.0.191"
+  }
+}
